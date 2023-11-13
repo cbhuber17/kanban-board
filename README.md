@@ -1,6 +1,6 @@
 # Kanban Board
 
-- Currently under construction!
+- Simple Kanban board made with React!
 
 ## TODO:
 
